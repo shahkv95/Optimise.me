@@ -5,4 +5,9 @@ This repository is created to focus on code optimisation. Today in the world of 
 
 ![](https://img.shields.io/badge/status-ongoing-green)
 ![](https://img.shields.io/badge/languages%20allowed-No%20restriction-red)
-![Information regarding repository structure](https://img.shields.io/badge/warning-strictly%20follow%20discrete%20structure-red)
+!['Information regarding repository structure'](https://img.shields.io/badge/warning-strictly%20follow%20discrete%20structure-red)
+
+
+Presently issues opened for <b>Optimisation Technique</b>. Follow the format given in the respective directory.
+
+!['Acknowleding the work: '](https://img.shields.io/badge/Compulsion-Mention%20reference-navy%20blue)
