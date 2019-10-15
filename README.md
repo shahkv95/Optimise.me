@@ -14,22 +14,25 @@ Presently issues opened for <b>Optimization Technique</b>. Follow the format giv
 !['Acknowledging the work: '](https://img.shields.io/badge/Compulsion-Mention%20reference-navy%20blue)
 
 
-# Repository Structure:<br>
-Directory: 
-<ul>
-   <h3>Optimization Techniques</h3>
-                 <b><li>Technique_Name </b>(Save file by the name of the technique)</li>
-                
-</ul>
+# Repository Structure:
 
- <h4>Format for writing Optimization Techniques:</h4> 
+# Optimization Techniques
+                 * Technique_Name (Save file by the name of the technique)
+                
+
+
+# Format for writing Optimization Techniques: 
 * Technique Name<br>
 * How to apply<br> 
 * Time / Space complexity<br>
 * Acknowledgement - References
 
-<h3> Research Papers</h3>
+# Research Papers
 This folder contains all the available links of research paper for a particular optimization algorithm. 
+
 # Format of including Research Paper 
-Consider one Optimization Technique and include as many research paper links as you can find and include them year wise. <br>
-If you are working for Swarm Optimization Technique, open 2019, write its name and link and do the same for other years as well. <br>If in case you do not find any links, still write the name of the technique and mention NONE under it.<br> This will make it easy to access for everyone. <br>The sequence would thus be maintained for it.
+* Consider one Optimization Technique and include as many research paper links as you can find and include them year wise. <br>
+* If you are working for Swarm Optimization Technique, open 2019, write its name and link and do the same for other years as well.<br>
+* If in case you do not find any links, still write the name of the technique and mention NONE under it.<br>
+* This will make it easy to access for everyone.<br>
+* The sequence would thus be maintained for it.
