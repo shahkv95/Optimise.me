@@ -30,6 +30,6 @@ Directory:
 
 <h3> Research Papers</h3>
 This folder contains all the available links of research paper for a particular optimization algorithm. 
-Format of including Research Paper 
-Consider one Optimization Technique and include as many research paper links as you can find and include them year wise. 
-If you are working for Swarm Optimization Technique, open 2019, write its name and link and do the same for other years as well. If in case you do not find any links, still write the name of the technique and mention NONE under it. This will make it easy to access for everyone. The sequence would thus be maintained for it.
+# Format of including Research Paper 
+Consider one Optimization Technique and include as many research paper links as you can find and include them year wise. <br>
+If you are working for Swarm Optimization Technique, open 2019, write its name and link and do the same for other years as well. <br>If in case you do not find any links, still write the name of the technique and mention NONE under it.<br> This will make it easy to access for everyone. <br>The sequence would thus be maintained for it.
