@@ -36,3 +36,6 @@ This folder contains all the available links of research paper for a particular 
 * If in case you do not find any links, still write the name of the technique and mention NONE under it.<br>
 * This will make it easy to access for everyone.<br>
 * The sequence would thus be maintained for it.
+
+
+## Use Cases
