@@ -42,7 +42,7 @@ This folder contains all the available links of research paper for a particular 
 This folder contains the use cases / algorithms for the code optimization. 
 ## Structure to be followed
 * Usecases 
-        *- Collection 1(Searching) 
-                *- ALgorithm_name (Binary Search)
-                        ** Optimized Code
-                        ** Pesudo Code
+* Collection 1(Searching) 
+* ALgorithm_name (Binary Search)
+        * Optimized Code
+        * Pesudo Code
