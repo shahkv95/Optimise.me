@@ -21,7 +21,7 @@ Presently issues opened for <b>Optimization Technique</b>. Follow the format giv
                 
 
 
-# Format for writing Optimization Techniques: 
+## Format for writing Optimization Techniques: 
 * Technique Name<br>
 * How to apply<br> 
 * Time / Space complexity<br>
@@ -30,7 +30,7 @@ Presently issues opened for <b>Optimization Technique</b>. Follow the format giv
 # Research Papers
 This folder contains all the available links of research paper for a particular optimization algorithm. 
 
-# Format of including Research Paper 
+## Format of including Research Paper 
 * Consider one Optimization Technique and include as many research paper links as you can find and include them year wise. <br>
 * If you are working for Swarm Optimization Technique, open 2019, write its name and link and do the same for other years as well.<br>
 * If in case you do not find any links, still write the name of the technique and mention NONE under it.<br>
@@ -38,4 +38,11 @@ This folder contains all the available links of research paper for a particular 
 * The sequence would thus be maintained for it.
 
 
-## Use Cases
+# Use Cases
+This folder contains the use cases / algorithms for the code optimization. 
+## Structure to be followed
+* Usecases 
+        *- Collection 1(Searching) 
+                *- ALgorithm_name (Binary Search)
+                        ** Optimized Code
+                        ** Pesudo Code
