@@ -44,5 +44,5 @@ This folder contains the use cases / algorithms for the code optimization.
 * Usecases 
 * Collection 1(Searching) 
 * ALgorithm_name (Binary Search)
-*Optimized Code
-*Pseudo Code
+* Optimized Code
+* Pseudo Code
