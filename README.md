@@ -23,9 +23,9 @@ Directory:
 </ul>
 
  <h4>Format for writing Optimization Techniques:</h4> 
-* Technique Name
-* How to apply 
-* Time / Space complexity
+* Technique Name<br>
+* How to apply<br> 
+* Time / Space complexity<br>
 * Acknowledgement - References
 
 <h3> Research Papers</h3>
