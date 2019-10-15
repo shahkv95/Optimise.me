@@ -17,7 +17,7 @@ Presently issues opened for <b>Optimization Technique</b>. Follow the format giv
 # Repository Structure:
 
 # Optimization Techniques
-                 * Technique_Name (Save file by the name of the technique)
+         * Technique_Name (Save file by the name of the technique)
                 
 
 
