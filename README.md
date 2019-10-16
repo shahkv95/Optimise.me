@@ -9,7 +9,6 @@ This repository is created to focus on code optimization. Today in the world of 
 !['Information regarding repository structure'](https://img.shields.io/badge/warning-strictly%20follow%20discrete%20structure-red)
 
 
-Presently issues opened for <b>Optimization Technique</b>. Follow the format given in the respective directory.
 
 !['Acknowledging the work: '](https://img.shields.io/badge/Compulsion-Mention%20reference-navy%20blue)
 
