@@ -19,7 +19,6 @@ This repository is created to focus on code optimization. Today in the world of 
          * Technique_Name (Save file by the name of the technique)
                 
 
-
 ## Format for writing Optimization Techniques: 
 * Technique Name<br>
 * How to apply<br> 
