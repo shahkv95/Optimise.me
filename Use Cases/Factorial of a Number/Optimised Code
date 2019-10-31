@@ -1,1 +1,53 @@
-# Include the optimised code here with proper comments 
+# Half Successive Multiplication Algorithm coded in python 
+
+import time
+start = time.time()
+
+def half_multi_fact(num):
+
+        if (num == 1 or num == 0):
+            return 1
+
+        flag = False
+        max_range = num
+
+        if (num & 1 == 1):
+            max_range -= 1
+            flag = True
+
+        next_sum = max_range
+        next_prod = max_range
+        factorial = 1
+
+        while (next_sum >= 2):
+            factorial *= next_prod
+            next_sum -= 2
+            next_prod += next_sum
+
+        if (flag):
+            factorial *= num
+
+        return factorial
+
+num = int(input('Enter a number: '))
+print('Factorial of ' + str(num) + ' is ' + str(half_multi_fact(num)))   
+
+end = time.time()   
+
+print('Execution time: ' + str(end - start))
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Aknowledgment / References :
+# https://www.hackerearth.com/practice/notes/efficient-factorials-calculation/#c204701
+# https://github.com/ankur-anand/Factorial-Algorithm
