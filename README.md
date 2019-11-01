@@ -49,3 +49,22 @@ This folder contains the use cases / algorithms for the code optimization.
 ![](https://img.shields.io/badge/Reference-Factorial-orange)
 
         Please see an example of how factorial of a number have been created
+        
+        
+ # How PR will be accepted ?
+        
+        First raise an issue or tell in which issue you wish to work on.
+        After the issue is assigned to you, start working on it.
+        Fork / clone the repository. 
+        Add additional content to the forked repo.
+        Raise a PR.
+        If there's no conflict and if the content is in right format with proper acknowledgment,
+        Say Hurrah!
+        Coz your PR will be accepted.
+        
+        
+ # Types of issues
+
+1) Want to add new content to the repository
+2) Wish to change the presently available optimized algo with better optimization.
+3) Wish to write documentation(No copying from any source)(Don't forget to refer the source)
