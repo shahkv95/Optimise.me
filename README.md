@@ -46,4 +46,5 @@ This folder contains the use cases / algorithms for the code optimization.
 2) Pseudo Code
 3) List of Techniques known / compared
 
+![](https://img.shields.io/badge/Reference-Factorial-orange)
         Please see an example of how factorial of a number have been created
