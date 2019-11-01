@@ -44,3 +44,6 @@ This folder contains the use cases / algorithms for the code optimization.
 * Algorithm_name (Binary Search)
 1) Optimized Code
 2) Pseudo Code
+3) List of Techniques known / compared
+
+        Please see an example of how factorial of a number have been created
