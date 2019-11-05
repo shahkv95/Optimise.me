@@ -56,6 +56,7 @@ This folder contains the use cases / algorithms for the code optimization.
         First raise an issue or tell in which issue you wish to work on.
         After the issue is assigned to you, start working on it.
         Fork / clone the repository. 
+        Star the repository for easy access.
         Add additional content to the forked repo.
         Raise a PR.
         If there's no conflict and if the content is in right format with proper acknowledgment,
