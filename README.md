@@ -12,6 +12,7 @@ This repository is created to focus on code optimization. Today in the world of 
 
 !['Acknowledging the work: '](https://img.shields.io/badge/Compulsion-Mention%20reference-navy%20blue)
 
+[![Open Source Helpers](https://www.codetriage.com/shahkv95/lilliputian-codes/badges/users.svg)](https://www.codetriage.com/shahkv95/lilliputian-codes)
 
 # Repository Structure:
 
