@@ -68,5 +68,5 @@ This folder contains the use cases / algorithms for the code optimization.
  # Types of issues
 
 1) Want to add new content to the repository
-2) Wish to change the presently available optimized algo with better optimization.
+2) Wish to change the currently available optimized algo with better optimization.
 3) Wish to write documentation (No copying from any source) (Don't forget to refer the source)
