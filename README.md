@@ -49,7 +49,7 @@ This folder contains the use cases / algorithms for the code optimization.
 
 ![](https://img.shields.io/badge/Reference-Factorial-orange)
 
-        Please see an example of how factorial of a number have been created
+      Please see an example of how factorial of a number have been created
         
         
  # How PR will be accepted ?
