@@ -52,7 +52,7 @@ This folder contains the use cases / algorithms for the code optimization.
         Please see an example of how factorial of a number have been created
         
         
- # How PR will be accepted ?
+ # How PR will be accepted?
         
         First raise an issue or tell in which issue you wish to work on.
         After the issue is assigned to you, start working on it.
