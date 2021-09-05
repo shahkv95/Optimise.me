@@ -1,5 +1,5 @@
 # Code-Optimization
-This repository is created to focus on code optimization. Today in the world of programming, where everywhere - everything is getting coded. It is very important to write optimized code. We need to focus on various complexities involved.
+This repository is created to focus on code optimization. Today in the world of programming, where everywhere - everything is getting coded. It is very important to write optimized code. We need to focus on various complexities involved in the code.
 
 
 <b>I will update the readme.md file soon. Till then you can work on the issues if you wishes to. </b>
