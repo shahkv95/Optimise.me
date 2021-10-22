@@ -60,7 +60,7 @@ This folder contains the use cases / algorithms for the code optimization.
         Star the repository for easy access.
         Add additional content to the forked repo.
         Raise a PR.
-        If there's no conflict and if the content is in right format with proper acknowledgment,
+        If there's no conflict and if the content meets the requirement criteria and in the right format with proper acknowledgment,
         Say Hurrah!
         Coz your PR will be accepted.
         
